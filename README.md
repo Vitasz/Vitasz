@@ -1,13 +1,4 @@
-### Hi there, I'm Vitasz! 👋
-
-- 🚀 **Passionate Developer:** Constantly exploring the world of code and aiming to master it.
-- 💻 **Languages I'm Learning:** Java, Python, C#, and more—I'm always eager to expand my knowledge.
-- 🎯 **Goals:** Upgrade my skills, write clean and efficient code, and contribute to awesome projects.
-- 🔧 **Coding Philosophy:** Great code isn’t just about making things work—it's about making them better.
-- 🤝 **Collaboration:** Open to feedback, discussions, and collaboration on exciting projects.
-
-Feel free to explore my repositories and connect with me. Happy coding! 🎉
-
+# Hi there, I'm Vitasz! 👋
 
 ### Connect with me:
 <span align="left">
@@ -15,6 +6,18 @@ Feel free to explore my repositories and connect with me. Happy coding! 🎉
 <a href="https://discordapp.com/users/vitasz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord: maxbarsukov" height="22" width="30" /></a>
 <a href="https://t.me/l_vitas_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: maxbarsukov" height="25" width="30" /></a>
 <br/>
+![Profile views](https://komarev.com/ghpvc/?username=nkolomiika&style=flat-square)
+
+Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve already spent 5 years honing my coding skills 🧑‍💻.
+- 🚀 **Passionate Developer:** Constantly exploring the world of code and aiming to master it.
+- 💻 **Languages I'm Learning:** Java, Python, C#, and more—I'm always eager to expand my knowledge.
+- 🎯 **Goals:** Upgrade my skills, write clean and efficient code, and contribute to awesome projects.
+- 🔧 **Coding Philosophy:** Great code isn’t just about making things work—it's about making them better.
+- 🤝 **Collaboration:** Open to feedback, discussions, and collaboration on exciting projects.
+
+Feel free to explore my repositories and connect with me. Happy coding! 🎉
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nkolomiika&theme=transparent&show_icons=true&hide=contribs,issues&rank_icon=github#gh-light-mode-only) ㅤ[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkolomiika&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Languages and Tools: 
 
