@@ -18,23 +18,33 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
 
 ## Feel free to explore my repositories and connect with me. Happy coding! 🎉
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px;">
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; max-width: 600px;">
-    <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" alt="Kotlin" />
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
-    <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS" />
-    <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt="Dotnet" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
-    <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="NodeJS" />
-    <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" alt="Unity" />
-    <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot Engine" />
-    <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
-    <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite" />
+  <div style="display: flex; flex-wrap: wrap; flex-direction: column; gap: 10px; max-width: 600px;">
+    <div style="display: flex; flex-wrap: wrap; flex-direction: raw; gap: 10px;">
+      <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" alt="Kotlin" />
+      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" alt="Python" />
+    </div>
+    <div style="display: flex; flex-wrap: wrap; flex-direction: raw; gap: 10px;">
+      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS" />
+      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" />
+    </div>
+    <div style="display: flex; flex-wrap: wrap; flex-direction: raw; gap: 10px;">
+      <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt="Dotnet" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
+      <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="NodeJS" />
+      <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React" />
+    </div>
+    <div style="display: flex; flex-wrap: wrap; flex-direction: raw; gap: 10px;">
+      <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" alt="Unity" />
+      <img src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot Engine" />
+    </div>
+    <div style="display: flex; flex-wrap: wrap; flex-direction: raw; gap: 10px;">
+      <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
+      <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite" />
+     </div>
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=Vitasz&show_icons=true&theme=gotham" alt="Vitasz" />
