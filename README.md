@@ -1,3 +1,6 @@
 ## Hi there 👋
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Vitasz.Vitasz)
+![Profile views](https://komarev.com/ghpvc/?username=nkolomiika&style=flat-square)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact)
+
+<a href="mailto:vitaliibogomia@mail.com">![YourEmail@mail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
