@@ -1,5 +1,13 @@
-# Hello there 👋, I'm Vitasz!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vitasz&label=Profile%20views&color=0e75b6&style=flat" alt="vitasz" /> </p>
+### Hi there, I'm Vitasz! 👋
+
+- 🚀 **Passionate Developer:** Constantly exploring the world of code and aiming to master it.
+- 💻 **Languages I'm Learning:** Java, Python, C#, and more—I'm always eager to expand my knowledge.
+- 🎯 **Goals:** Upgrade my skills, write clean and efficient code, and contribute to awesome projects.
+- 🔧 **Coding Philosophy:** Great code isn’t just about making things work—it's about making them better.
+- 🤝 **Collaboration:** Open to feedback, discussions, and collaboration on exciting projects.
+
+Feel free to explore my repositories and connect with me. Happy coding! 🎉
+
 
 ### Connect with me:
 <span align="left">
@@ -33,4 +41,4 @@
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkolomiika&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nkolomiika&theme=transparent&show_icons=true&hide=contribs,issues&rank_icon=github#gh-light-mode-only) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitasz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
