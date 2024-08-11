@@ -17,7 +17,7 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
 - 🤝 **Collaboration:** Open to feedback, discussions, and collaboration on exciting projects.
 
 ## Feel free to explore my repositories and connect with me. Happy coding! 🎉
- <table>
+ <table style="border-collapse: collapse; width: 100%;>
   <tr>
     <td>
       <div style="display: flex; flex-wrap: wrap; flex-direction: raw; gap: 2px;">
