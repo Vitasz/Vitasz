@@ -24,7 +24,7 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
 
 <div style="display: flex; flex-direction: column; align-items: center; height: 100vh; justify-content: center;">
   <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
-    ![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+    <img width="" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" />
     ![C#](https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
     ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
     ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
