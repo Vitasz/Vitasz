@@ -17,11 +17,6 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
 - 🤝 **Collaboration:** Open to feedback, discussions, and collaboration on exciting projects.
 
 ## Feel free to explore my repositories and connect with me. Happy coding! 🎉
-<p align="center">  <img src="https://github-readme-stats.vercel.app/api?username=Vitasz&show_icons=true&theme=gotham" alt="Vitasz" />
-
-
-### Languages and Tools: 
-
 <div style="display: flex; flex-direction: column; align-items: center; height: 100vh; justify-content: center;">
   <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
     <img width="" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -44,6 +39,9 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
     <img width="" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres" />
     <img width="" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
     <img width="" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite" />
+  </div>
+  <div>
+     <img src="https://github-readme-stats.vercel.app/api?username=Vitasz&show_icons=true&theme=gotham" alt="Vitasz" />
   </div>
   <div>
     <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitasz&layout=compact" alt="https://github.com/anuraghazra/github-readme-stats" />
