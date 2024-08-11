@@ -2,9 +2,9 @@
 
 ### Connect with me:
 <span align="left">
-<a href="https://vk.com/vitaliibogomia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="VK: maxbarsukov" height="25" width="30" /></a>
-<a href="https://discordapp.com/users/vitasz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord: maxbarsukov" height="22" width="30" /></a>
-<a href="https://t.me/l_vitas_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="Telegram: maxbarsukov" height="25" width="30" /></a>
+<a href="https://vk.com/vitaliibogomia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="" height="25" width="30" /></a>
+<a href="https://discordapp.com/users/vitasz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="22" width="30" /></a>
+<a href="https://t.me/l_vitas_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="" height="25" width="30" /></a>
 <br/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=Vitasz&style=flat-square)
@@ -32,21 +32,21 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
     <br />
     <img width="" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" alt="CSS" />
     <img width="" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML" />
-    
-    ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
-    ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-    ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
-    ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-    
-    ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
-    ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)
-    ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
-    
-    ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
-    ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
+    <br />
+    <img width="" src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff" alt="Dotnet" />
+    <img width="" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" alt="Docker" />
+    <img width="" src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white" alt="NodeJS" />
+    <img width="" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React" />
+    <br />
+    <img width="" src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" alt="Unity" />
+    <img width="" src="https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine" alt="Godot Engine" />
+    <br />
+    <img width="" src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white" alt="Postgres" />
+    <img width="" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" alt="MySQL" />
+    <img width="" src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite" />
   </div>
   <div>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitasz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitasz&layout=compact" alt="https://github.com/anuraghazra/github-readme-stats" />
   </div>
 </div>
 
