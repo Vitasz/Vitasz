@@ -17,9 +17,10 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
 - 🤝 **Collaboration:** Open to feedback, discussions, and collaboration on exciting projects.
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vitasz&theme=transparent&show_icons=true&hide=contribs,issues&rank_icon=github#gh-light-mode-only" alt="My GitHub stats" />
-    <span style="margin-left: 10px;">Feel free to explore my repositories and connect with me. Happy coding! 🎉</span>
+    <img src="https://github-readme-stats.vercel.app/api?username=Vitasz&theme=transparent&show_icons=true&hide=contribs,issues&rank_icon=github#gh-light-mode-only" alt="My GitHub stats" style="vertical-align: middle;" />
+    <span style="margin-left: 10px; vertical-align: middle; font-size: 24px; font-weight: bold">Feel free to explore my repositories and connect with me. Happy coding! 🎉</span>
 </div>
+
 
 ### Languages and Tools: 
 
