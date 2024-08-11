@@ -17,7 +17,7 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
 - 🤝 **Collaboration:** Open to feedback, discussions, and collaboration on exciting projects.
 
 ## Feel free to explore my repositories and connect with me. Happy coding! 🎉
-<div style="display: flex; flex-direction: column; align-items: center; height: 100vh; justify-content: center;">
+<div style="display: flex; flex-direction: raw; align-items: center; height: 100vh; justify-content: center;">
   <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 20px;">
     <img width="" src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" />
     <img width="" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#" />
