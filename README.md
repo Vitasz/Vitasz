@@ -9,6 +9,7 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
 - 🤝 **Collaboration:** Open to feedback, discussions, and collaboration on exciting projects.
 
 ## Feel free to explore my repositories and connect with me. Happy coding! 🎉
+
 <table>
   <tr>
     <td>
@@ -17,7 +18,7 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
     <td> 
       <img src="https://github-readme-stats.vercel.app/api?username=Vitasz&show_icons=true&theme=gotham" alt="Vitasz" />
     </td>
-    <td>
+    <td width=250px>
       <div style="display: flex; flex-wrap: wrap; flex-direction: raw; gap: 2px;">
         <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#" />
