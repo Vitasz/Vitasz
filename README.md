@@ -9,15 +9,7 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
 - 🤝 **Collaboration:** Open to feedback, discussions, and collaboration on exciting projects.
 
 ## Feel free to explore my repositories and connect with me. Happy coding! 🎉
-<div align="left" gap = 2px>
-<a href="https://vk.com/vitaliibogomia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="" height="50" width="60" /></a>
-<a href="https://discordapp.com/users/vitasz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="44" width="60" /></a>
-<a href="https://t.me/l_vitas_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="" height="50" width="60" /></a>
-</div>
- <br/>
-<br/>
- 
- <table>
+<table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitasz&layout=compact" alt="Top Languages" />
@@ -56,4 +48,7 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
   </tr>
 </table>
 
-
+<p align="center">
+<a href="https://vk.com/vitaliibogomia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg" alt="" height="50" width="60" /></a>
+<a href="https://discordapp.com/users/vitasz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="" height="44" width="60" /></a>
+<a href="https://t.me/l_vitas_l" target="blank"><img align="center" src="https://raw.githubusercontent.com/AliSawari/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="" height="50" width="60" /></a>
