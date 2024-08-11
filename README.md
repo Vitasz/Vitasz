@@ -19,7 +19,7 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
 ## Feel free to explore my repositories and connect with me. Happy coding! 🎉
  <table style="border-collapse: collapse; width: 100%;">
   <tr>
-    <td>
+    <td style="border: none; padding: 0;">
       <div style="display: flex; flex-wrap: wrap; flex-direction: raw; gap: 2px;">
         <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#" />
@@ -47,10 +47,10 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
         <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite" />
        </div>
     </td>
-    <td>
+    <td style="border: none; padding: 0;"> 
       <img src="https://github-readme-stats.vercel.app/api?username=Vitasz&show_icons=true&theme=gotham" alt="Vitasz" />
     </td>
-    <td>
+    <td style="border: none; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitasz&layout=compact" alt="Top Languages" />
     </td>
   </tr>
