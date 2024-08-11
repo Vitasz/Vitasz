@@ -32,6 +32,5 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitasz&show_icons=true&locale=en&layout=compact" alt="vitasz" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nkolomiika&layout=compact)](https://github.com/anuraghazra/github-readme-stats) ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nkolomiika&theme=transparent&show_icons=true&hide=contribs,issues&rank_icon=github#gh-light-mode-only) 
