@@ -10,15 +10,15 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
 
 ## Feel free to explore my repositories and connect with me. Happy coding! 🎉
 
-<table>
+<table style = "border: none!important">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitasz&layout=compact" alt="Top Languages" />
-    </td>
     <td> 
-      <img src="https://github-readme-stats.vercel.app/api?username=Vitasz&show_icons=true&theme=gotham" alt="Vitasz" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Vitasz&show_icons=true&theme=gotham&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Vitasz" height = 320px/>
     </td>
-    <td width=250px>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitasz&layout=donut-vertical&theme=gotham&langs_count=4" alt="Top Languages" height = 320px/>
+    </td>
+    <td width=170px>
       <div style="display: flex; flex-wrap: wrap; flex-direction: raw; gap: 2px;">
         <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white" alt="C++" />
         <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white" alt="C#" />
