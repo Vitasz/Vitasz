@@ -18,7 +18,7 @@ Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve alread
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Vitasz&theme=transparent&show_icons=true&hide=contribs,issues&rank_icon=github#gh-light-mode-only" alt="My GitHub stats" style="vertical-align: middle;" />
-    <span style="margin-left: 10px; vertical-align: middle; font-size: 24px; font-weight: bold">Feel free to explore my repositories and connect with me. Happy coding! 🎉</span>
+    <span style="margin-left: 10px; vertical-align: middle; font-size: 24px; font-weight: bold, text-align: center">Feel free to explore my repositories and connect with me. Happy coding! 🎉</span>
 </div>
 
 
