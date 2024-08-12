@@ -3,9 +3,9 @@
 
 Hi, I'm Vitalii, developer from Russia, at just 19 years old 👶, I’ve already spent 5 years honing my coding skills 🧑‍💻.
 - 🚀 **Passionate Developer:** Constantly exploring the world of code and aiming to master it.
-- 💻 **Languages I'm Learning:** Java, Python, C#, and more—I'm always eager to expand my knowledge.
+- 💻 **Languages I'm Learning:** Java, Python, C#, and more - I'm always eager to expand my knowledge.
 - 🎯 **Goals:** Upgrade my skills, write clean and efficient code, and contribute to awesome projects.
-- 🔧 **Coding Philosophy:** Great code isn’t just about making things work—it's about making them better.
+- 🔧 **Coding Philosophy:** Great code isn’t just about making things work - it's about making them better.
 - 🤝 **Collaboration:** Open to feedback, discussions, and collaboration on exciting projects.
 
 ## Feel free to explore my repositories and connect with me. Happy coding! 🎉
